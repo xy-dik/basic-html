@@ -2,4 +2,4 @@ BELAJAR GAES
 - html
 - css
 - dll
-- edit gaes
+- gajadi edit
