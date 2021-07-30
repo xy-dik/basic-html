@@ -1,0 +1,4 @@
+ini kita belajar bikin branch gaes
+
+- belum fix
+- bisa diubah
