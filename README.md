@@ -1,2 +1,2 @@
 # HTML
-belajar frontend
+front-end
